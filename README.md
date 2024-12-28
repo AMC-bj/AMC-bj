@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMChc-bj
+- 👋 Hi, I’m @AMC
 - my interest is studying
 <!---
 AMChc-bj/AMChc-bj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
