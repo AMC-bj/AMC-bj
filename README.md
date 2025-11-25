@@ -11,19 +11,8 @@
 
 ### 🧐 关于我
 
-- 🔭 我目前正在探索 GitHub 的奇妙世界
-- 🎮 **兴趣爱好**: WOW
-- ⚡ **个性签名**: I just want to evolve
-
----
-
-### 📊 GitHub 数据统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMChc-bj&show_icons=true&theme=tokyonight" alt="AMChc-bj's GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMChc-bj&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- 🔭 我目前正在探索 GitHub
+- ⚡ I just want to evolve
 
 ---
 
